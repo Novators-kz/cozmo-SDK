@@ -449,7 +449,7 @@ class QueueNotifyCM:
         except IndexError:
             pass
         self._wake = asyncio.Future(loop=self.loop)
-        await asyncio.wait_for(self._wake, loop=self.loop, timeout=timeout)
+        await asyncio.wait_for(self._wake, timeout=timeout)
         return self._q.popleft()
 
 
