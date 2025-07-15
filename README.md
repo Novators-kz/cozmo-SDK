@@ -16,14 +16,9 @@ or just installing .zip file, then -> pip install .
 pip install https://raw.githubusercontent.com/DDLbots/cozmo-python-sdk/refs/heads/master/cozmoclad/cozmoclad-3.6.6-py3-none-any.whl
 
 
-# Anki Cozmo - Python SDK
 
-![Cozmo](docs/source/images/cozmo-sdk-img.jpg)
+[Fork](https://github.com/cozmoroot/cozmo-python-sdk) 
 
-Learn more about Cozmo: https://anki.com/cozmo
+[Resources](https://github.com/wwj718/awesome-cozmo/blob/master/README.md)
 
-Learn more about the SDK: https://developer.anki.com/
-
-SDK documentation: http://cozmosdk.anki.com/docs/
-
-Forums: https://forums.anki.com/
+SDK documentation: [http://cozmosdk.anki.com/docs/](https://web.archive.org/web/20230120014435/http://cozmosdk.anki.com/docs/)
